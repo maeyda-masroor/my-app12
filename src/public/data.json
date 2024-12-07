@@ -1,0 +1,41 @@
+{
+    "categories": [
+      {
+        "id": "1",
+        "name": "Electronics",
+        "products": [
+          {
+            "id": "101",
+            "name": "Smartphone",
+            "description": "A high-end smartphone with 128GB storage.",
+            "price": 699
+          },
+          {
+            "id": "102",
+            "name": "Laptop",
+            "description": "A powerful laptop with 16GB RAM.",
+            "price": 999
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Clothing",
+        "products": [
+          {
+            "id": "201",
+            "name": "T-shirt",
+            "description": "A comfortable cotton T-shirt.",
+            "price": 25
+          },
+          {
+            "id": "202",
+            "name": "Jeans",
+            "description": "Stylish slim-fit jeans.",
+            "price": 50
+          }
+        ]
+      }
+    ]
+  }
+  
